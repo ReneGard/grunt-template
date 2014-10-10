@@ -1,0 +1,12 @@
+{
+    "author": "creative-department-team",
+    "name": "grunt-js-template",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "latest",
+        "grunt-contrib-less": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-imagemin": "latest",
+        "grunt-contrib-watch": "latest"
+    }
+}
